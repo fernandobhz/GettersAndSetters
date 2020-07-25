@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GettersAndSetters", "GettersAndSetters\GettersAndSetters.vbproj", "{344A8D2B-F4B3-4A9E-AB8D-0E34B07EF160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{344A8D2B-F4B3-4A9E-AB8D-0E34B07EF160}.Debug|x86.ActiveCfg = Debug|x86
+		{344A8D2B-F4B3-4A9E-AB8D-0E34B07EF160}.Debug|x86.Build.0 = Debug|x86
+		{344A8D2B-F4B3-4A9E-AB8D-0E34B07EF160}.Release|x86.ActiveCfg = Release|x86
+		{344A8D2B-F4B3-4A9E-AB8D-0E34B07EF160}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
